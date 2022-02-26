@@ -52,3 +52,4 @@ terraform plan
 ```bash
 terraform apply
 ```
+### force apply 12:18
