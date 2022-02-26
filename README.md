@@ -7,7 +7,7 @@ Let's talk about the various options for deployment with Terraform Cloud. The ne
 - Creating a workspace on TFC with the CLI workflow
 - Configuring variable values and environment variables
 - Updating the Terraform configuration
-- Deploying the configuration with the CLI
+- Deploying the configuration with the CLI 
 
 ### Creating a workspace on TFC with the CLI workflow
 
